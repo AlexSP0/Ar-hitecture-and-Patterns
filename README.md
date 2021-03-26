@@ -1,2 +1,1 @@
-Arсhitecture and Patterns
-Скринщот устновки visual paradigm и текстовый файл с кратким описанием задачи и ответом.
+Lesson 2: two diagrams in  PeriodicalMedicalCheck.vpp
